@@ -8,7 +8,6 @@
 <h2>📚Estudos</h2>
   <li>Tecnico em Eletroeletrônica, SENAI</li>
   <li>Cursando Engenharia de Computação, IFMS</li>
-<hr>
 <h2>🧪Projetos</h2>
   <li>Robótica, Olímpiada brasileira de programação (OBR)</li>
       &nbsp;&nbsp;&nbsp;-🏆Prêmio de melhor programação na fase nacional
