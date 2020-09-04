@@ -2,7 +2,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<h2>Estudante de Engenharia de computação</h2>
+<hr>
+<h2>Estudos</h2>
+  <li>Tecnico em Eletroeletrônica, SENAI</li>
 <!--
 **samuel-lujan/samuel-lujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
