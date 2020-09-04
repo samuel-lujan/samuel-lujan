@@ -3,8 +3,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <hr>
-<h2>Estudos</h2>
+<h2>📚Estudos</h2>
   <li>Tecnico em Eletroeletrônica, SENAI</li>
+  <li>Cursando Engenharia de Computação, IFMS</li>
+<hr>
+<h2>🧪Projetos</h2>
+  <li>Robótica, Olímpiada brasileira de programação</li>
+    <ul>
+      <li>🏆Prêmio de melhor programação na fase nacional</li>
+      <li>🏆Campeão Estadual</li>
+    </ul>
+  
+  
 <!--
 **samuel-lujan/samuel-lujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
