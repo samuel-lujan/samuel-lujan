@@ -10,12 +10,13 @@
   <li>Cursando Engenharia de Computação, IFMS</li>
 <hr>
 <h2>🧪Projetos</h2>
-  <li>Robótica, Olímpiada brasileira de programação</li>
-      &nbsp;-🏆Prêmio de melhor programação na fase nacional
-      <br>&nbsp;-🏆Campeão Estadual
-    
-  
-  
+  <li>Robótica, Olímpiada brasileira de programação (OBR)</li>
+      &nbsp;&nbsp;&nbsp;-🏆Prêmio de melhor programação na fase nacional
+      <br>&nbsp;&nbsp;&nbsp;-🏆Campeão Estadual
+<h2>Onde me encontrar</h2>
+  <li>Twitter: @samuka_lujan</li>
+  <li>Facebook: Samuel Lujan</li>
+  <li>Email: samuel_lujan@hotmail.com</li>
 <!--
 **samuel-lujan/samuel-lujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
