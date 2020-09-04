@@ -1,5 +1,5 @@
 ### Hey What’s up? I’m Samuel Lujan there 👋
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-lujan&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-lujan&show_icons=true)<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -11,10 +11,9 @@
 <hr>
 <h2>🧪Projetos</h2>
   <li>Robótica, Olímpiada brasileira de programação</li>
-    <ul>
-      <li>🏆Prêmio de melhor programação na fase nacional</li>
-      <li>🏆Campeão Estadual</li>
-    </ul>
+      -🏆Prêmio de melhor programação na fase nacional
+      -🏆Campeão Estadual
+    
   
   
 <!--
