@@ -11,8 +11,8 @@
 <hr>
 <h2>🧪Projetos</h2>
   <li>Robótica, Olímpiada brasileira de programação</li>
-      -🏆Prêmio de melhor programação na fase nacional
-      -🏆Campeão Estadual
+      &nbsp;-🏆Prêmio de melhor programação na fase nacional
+      <br>&nbsp;-🏆Campeão Estadual
     
   
   
