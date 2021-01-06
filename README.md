@@ -20,6 +20,9 @@
   
  <h2>My loves</h2>
   <li>Arduino</li>
+  <li>Programming</li>
+  <li>BackEnd development</li>
+  <li>DBA</li>
 <!--
 **samuel-lujan/samuel-lujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
