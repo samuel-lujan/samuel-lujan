@@ -1,6 +1,6 @@
 ### Hey What’s up? It's Samuel Lujan here! 👋
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-lujan&show_icons=true)<br>
-(https://github-readme-stats.vercel.app/api?username=samuel-lujan&show_icons=true)<br>
+https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-lujanS&hide=css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
