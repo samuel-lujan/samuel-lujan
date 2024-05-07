@@ -21,6 +21,8 @@
   <li>Linkedin: /samuel-lujan-de-oliveira-250658b0/</li>
   
  <h2>My loves</h2>
+  <li>Laravel</li>
+  <li>MySql</li>
   <li>Arduino</li>
   <li>Programming</li>
   <li>BackEnd development</li>
